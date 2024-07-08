@@ -1,0 +1,9 @@
+
+Libraries
+pip install SpeechRecognition
+pip install pyttsx3
+pip install pyAudio
+
+pip install vosk
+
+pip install mlphon
