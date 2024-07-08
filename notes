@@ -1,3 +1,6 @@
+https://reintech.io/blog/how-to-create-a-voice-recognition-system-with-python
+https://colab.research.google.com/drive/1QqlB8gaOIGnLk7MAYIceHGV9_UP_Zpkk?authuser=1#scrollTo=FySqpUq-gizc
+
 
 Libraries
 pip install SpeechRecognition
@@ -7,3 +10,4 @@ pip install pyAudio
 pip install vosk
 
 pip install mlphon
+
